@@ -10,7 +10,7 @@ on:
 
 jobs:
   my_first_job:
-    runs-on: ubuntu-lastest
+    runs-on: ubuntu-latest
   
     steps:
       - uses: actions/checkout@v3
@@ -20,4 +20,5 @@ jobs:
 
       - name: Run on multi-line script
         run: |
-          echo hello world!!!
+          echo my first multi-line echo
+          echo my second multi-line echo
