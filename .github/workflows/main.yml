@@ -1,3 +1,5 @@
+name: Main Workflow calling Paulo action
+
 on: [push]
 
 jobs:
