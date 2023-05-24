@@ -1,4 +1,4 @@
-name: CI
+name: job_running_in_container
 on:
   push:
     branches: [ main ]
