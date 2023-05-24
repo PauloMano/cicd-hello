@@ -1,4 +1,4 @@
-name: Main Workflow calling Paulo action
+name: Main_Workflow_calling_Paulo_action
 
 on: [push]
 
